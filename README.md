@@ -14,3 +14,4 @@ Opeyemi also loves to teach, mentor, or provide guidance to others; a task that 
 
 * [Contact Me](https://www.linkedin.com/in/opeyemi-okuboyejo/)  
 * [Website](opeyemitechpro.github.io)
+* [GitHub](https://github.com/opeyemitechpro)
