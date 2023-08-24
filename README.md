@@ -1,17 +1,68 @@
-![](https://avatars.githubusercontent.com/u/135651560)
+![](https://media.licdn.com/dms/image/D5616AQHX5zdQDr1Nbw/profile-displaybackgroundimage-shrink_350_1400/0/1686151153700?e=1697068800&v=beta&t=AQ94fdzl8IIzI32CqpIzF7F9c-s9ALFeCFOEnDqKX08)
 
-# Opeyemi Okuboyejo
+# ⚡️ My Personal Portfolio  - Opeyemi Okuboyejo  
+> Highlighting my Skills and Experience as an AWS Certified  Solutions Architect, A Cloud Engineer, DevOps Engineer and IT Support Engineer in a clean, beautiful and responsive portfolio!
 
-I am an AWS Certified Solutions Architect with competence, confidence, and credibility with practical cloud skills in AWS Cloud technology, across a wide range of AWS services. Using architectural design principles, I have the ability to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant.
+> ### https://opeyemitechpro.github.io
 
-I have extensive experience in Microsoft technologies, servers, PCs, and other technology solutions from leading hardware and software vendors; I'm a Microsoft certified Professional and have successfully implemented Microsoft and other business solutions for medium to large-scale organizations. 
 
-With over 15 years of industry experience and a sound technical foundation in IT, I combine skills such as cloud virtualization, web server management, systems administration, network administration, database administration, and project management to be a well-rounded and experienced IT Professional. 
+![GitHub stars](https://img.shields.io/github/stars/opeyemitechpro/opeyemitechpro.github.io) 
+![GitHub forks](https://img.shields.io/github/forks/opeyemitechpro/opeyemitechpro.github.io)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/opeyemitechpro/opeyemitechpro.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://opeyemitechpro.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![Linkedin Badge](https://img.shields.io/badge/-Opeyemi_On_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opeyemi-okuboyejo/)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
+[![Gmail Badge](https://img.shields.io/badge/-okuboyejoopeyemi01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com)](mailto:okuboyejoopeyemi01@gmail.com) 
+[![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Portfolio-blue?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitechpro.github.io)](https://opeyemitechpro.github.io)
 
-When not working on IT projects, I love to explore my passion for learning by researching new and emerging trends as I trie out various web & cloud-based services and products while rapidly learning new approaches to achieving great things. 
 
-I also love to teach, mentor, or provide guidance to others; a task that requires patience and people management skills. I need no supervision having been a self-starter entrepreneur and team leader that earned the trust and confidence of clients for many years.
 
-* [Contact Me](https://www.linkedin.com/in/opeyemi-okuboyejo/)  
-* [Website](opeyemitechpro.github.io)
-* [GitHub](https://github.com/opeyemitechpro)
+:star: Star me on GitHub — it helps!
+
+## Features 📋
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Typing animation using `Typed.js`\
+⚡️ Easy to modify
+
+
+
+## Sections 📚
+✔️ About me\
+✔️ Experience\
+✔️ Projects \
+✔️ Skills \
+✔️ Certifications \
+✔️ Education\
+✔️ Contact Info\
+✔️ Resume
+
+### To view the live portfolio website, **[click here](https://opeyemitechpro.github.io/)**
+
+
+### ⚡️ Github Stats
+<p>
+    <a href="https://gitstats.me/opeyemitechpro" target="_blank"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=opeyemitechpro&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
+    </a>
+</p>
+
+
+## Tools Used 🛠️
+* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
+* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
+* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
+
+## Forked From
+### [Varad Bhogayata][forked_from]
+ 💡
+
+
+## License 📄
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+
+
+<!-- website-->
+
+[forked_from]: https://github.com/varadbhogayata/varadbhogayata.github.io
