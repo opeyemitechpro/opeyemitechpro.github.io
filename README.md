@@ -56,7 +56,7 @@
 
 ## Forked From
 ### [Varad Bhogayata][forked_from]
- 💡
+ 
 
 ## Installation & Deployment 📦
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
