@@ -51,12 +51,6 @@ Looking for an opportunity to work in a challenging position combining my skills
 [![Website](https://img.shields.io/badge/Opeyemi's-Profile-0A66C2?labelColor=yellow&style=flat&logo=terraform&logoColor=white)](https://opeyemitech.pro)&nbsp;&nbsp;[![Website](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logo=terraform&logoColor=white)](https://opeyemitech.pro) -->
 
 
-
-
-
-
-
-
 <!-- ![Static Badge](https://img.shields.io/badge/OPeyemi_On_LinkedIn?style=for-the-badge) -->
 
 ## **:fontawesome-solid-magnifying-glass-location: WHERE TO FIND ME**
