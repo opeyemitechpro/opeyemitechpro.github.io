@@ -1,0 +1,278 @@
+
+# Project Site Details
+site_name: Opeyemi Okuboyejo's Profile
+site_url: https://opeyemitechpro.github.io
+site_description: Opeyemi Okuboyejo's Profile
+
+# Repo Details
+repo_url: https://github.com/opeyemitechpro/opeyemitechpro.github.io
+repo_name: Opeyemi Okuboyejo's Profile
+edit_uri: edit/main/docs/
+
+
+theme:
+  name: material
+  icon: assets/images/favicon.png
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.prefetch
+    - navigation.instant.preview
+    - navigation.sections
+    - navigation.tracking
+    - navigation.top
+    - navigation.path
+    - navigation.footer
+    - navigation.indexes
+    # - toc.integrate
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - content.tooltips
+    - content.code.select
+    - content.code.annotate
+    - content.action.view
+    - content.action.edit
+    # - announce.dismiss
+   # site logo and favicon
+  favicon: assets/images/favicon.png
+  logo: assets/images/favicon.png
+  language: en
+  
+  palette:  
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: lime
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to system preference
+# font
+  font:
+    # text: Arima
+    text: Comic Neue
+    code: Kode Mono
+
+plugins:
+  - social:
+      cards_layout: default/accent
+      cards_layout_options:
+        background_color: blue
+        color: white
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - tags:
+      tags_file: tags.md
+  - git-committers:
+      repository: opeyemitechpro/opeyemitechpro.github.io
+      branch: main
+  # - git-authors
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
+      locale: en
+      fallback_to_build_date: true
+  - privacy  
+  # Redirect Docs - https://github.com/mkdocs/mkdocs-redirects
+  - redirects:
+      redirect_maps:
+        # 'old.md': 'new.md'
+        # 'old/file.md': 'new/file.md'
+        'my-projects.md': 'https://opeyemitech.pro/my-projects/'
+        'blog.md': 'https://opeyemitech.pro/my-projects/blog/'
+  - glightbox:
+      touchNavigation: true
+      loop: true
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      auto_caption: true
+      caption_position: bottom
+      background: none
+      shadow: true
+      manual: false
+  # - blog:
+  #     # blog_dir: blog
+  #     blog_toc: true
+  #     post_date_format: long
+  #     post_url_format: "{slug}"
+  #     post_slugify: !!python/object/apply:pymdownx.slugs.slugify
+  #       kwds:
+  #         case: lower
+  #     categories: true
+  #     categories_name: Categories
+  #     categories_url_format: "category/{slug}"
+  #     categories_slugify: !!python/object/apply:pymdownx.slugs.slugify
+  #       kwds:
+  #         case: lower
+  #     categories_toc: true
+  #     authors: true
+
+extra:
+  homepage: https://opeyemitechpro.github.io
+  social:
+    - icon: material/web
+      link: https://opeyemitech.pro
+      name: Opeyemi Okuboyejo's Profile
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/opeyemi-okuboyejo/
+      name: Opeyemi on LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/opeyemitechpro
+      name: Opeyemi on GitHub
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@opeyemitechpro
+      name: OpeyemiTechPro on YouTube
+    - icon: octicons/mail-24
+      link: mailto:okuboyejoopeyemi01@gmail.com
+      name: Email Me
+    - icon: simple/amazonwebservices
+      link: https://community.aws/@opeyemitechpro
+      name: Opeyemi on AWS Community
+    - icon: fontawesome/brands/dev
+      link: https://dev.to/opeyemitechpro
+      name: Opeyemi on Dev.to
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/opeyemitechpro
+      name: Opeyemi on Twitter
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/opeyemitechpro_cloud
+      name: Opeyemi on Telegram
+  # tags:
+  #   Terraform: 
+  #   AWS: 
+  #   DevOps: 
+  status:
+    new: Recently Updated
+    
+  analytics:
+    provider: google
+    property: G-MGNMY7NF92
+    # feedback:
+    #   title: Was this page helpful? Please give a feedback
+    #   ratings:
+    #     - icon: octicons/thumbsup-24
+    #       name: This page was helpful
+    #       data: 0
+    #       note: >-
+    #         Thanks for your feedback!
+    #     - icon: octicons/thumbsdown-24
+    #       name: This page can be improved
+    #       data: 1
+    #       note: >-
+    #         Thanks for your feedback! Help me to improve this page by
+    #         completing my <a href="https://forms.gle/Bb4gifiuyrE4enDX6" target="_blank" rel="noopener">feedback form</a>.
+  consent:
+    title: Cookie Consent
+    description: >-
+      I use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of my profile website and whether users
+      find what they're searching for. With your consent, you're helping me to
+      make my profile website better. Thanks
+    actions:
+      - accept
+      - reject
+      - manage
+
+# Extra StyleSheets
+extra_css:
+  - stylesheets/extra.css
+
+  
+# Extensions
+markdown_extensions:
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - codehilite:
+      linenums: true
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.blocks.caption
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.critic
+  - attr_list
+  - abbr
+  - admonition
+  - def_list
+  - toc:
+      permalink: true
+      permalink_title: Anchor Link to this paragraph
+      title: Sections on This Page
+      toc_depth: 5
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      linenums: true
+  - tables
+  
+
+copyright: |
+  Copyright &copy; 2023 - 2024 <a href="https://opeyemitech.pro"  target="_blank" rel="noopener">Opeyemi Okuboyejo</a> <br><a href="https://opeyemitech.pro/#about-me" target="_blank" rel="noopener">About Opeyemi</a><br><a href="https://forms.gle/Bb4gifiuyrE4enDX6" target="_blank" rel="noopener">Contact Opeyemi</a><br><br><br>Hosted on GitHub <br><a href="#__consent">Manage cookie settings</a><br><br>
+
+# Page Navigation
+nav:
+  - Profile Home: profile.md
+  # - Start Here: index.md
+  - My Projects Documenation: my-projects.md
+  - My Blog: blog.md
+  # - AWS:
+  #   - aws_projects/index.md
+  # - DevOps Projects:
+  #   - devops_projects/index.md
+  # - Terraform Projects: 
+  #   - terraform_projects/index.md
+  #   - terraform_projects/openvpn_access_server.md
+  # - Knowledge Base:
+  #   - kb/index.md
+  # - Blog:
+  #   - blog/index.md
+#   - Tags:
+#     - tags.md
+# #
