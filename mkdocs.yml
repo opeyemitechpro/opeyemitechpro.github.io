@@ -5,7 +5,7 @@ site_url: https://opeyemitechpro.github.io
 site_description: Opeyemi Okuboyejo's Profile
 
 # Repo Details
-repo_url: https://github.com/opeyemitechpro/opeyemitechpro.github.io
+repo_url: https://github.com/opeyemitechpro
 repo_name: Opeyemi Okuboyejo's Profile
 edit_uri: edit/main/docs/
 
@@ -258,7 +258,7 @@ copyright: |
 
 # Page Navigation
 nav:
-  - Profile Home: profile.md
+  - Profile Home: index.md
   # - Start Here: index.md
   - My Projects Documenation: my-projects.md
   - My Blog: blog.md
