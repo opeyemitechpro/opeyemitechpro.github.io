@@ -4,7 +4,7 @@ title: Privacy Policy
 description: Privacy Policy Page
 subtitle: Privacy Policy Page
 comments: false
-status: new
+status: 
 pin: false
 ---
 
