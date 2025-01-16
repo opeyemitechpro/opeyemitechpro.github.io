@@ -258,7 +258,7 @@ markdown_extensions:
 #   Copyright &copy; 2023 - 2024 <a href="https://opeyemitech.pro"  target="_blank" rel="noopener">Opeyemi Okuboyejo</a> <br><a href="https://opeyemitech.pro/#about-me" target="_blank" rel="noopener">About Opeyemi</a><br><a href="https://forms.gle/Bb4gifiuyrE4enDX6" target="_blank" rel="noopener">Contact Opeyemi</a><br><br><br>Hosted on GitHub <br><a href="#__consent">Manage cookie settings</a><br><br>
 
 copyright: |
-  Copyright &copy; 2023 - 2024 <a href="https://opeyemitech.pro"  target="_blank" rel="noopener">Opeyemi Okuboyejo</a> <br><a href="https://opeyemitech.pro/#about-me" target="_blank" rel="noopener">About Opeyemi</a><br><a href="https://forms.gle/Bb4gifiuyrE4enDX6" target="_blank" rel="noopener">Contact Opeyemi</a><br><a href="https://opeyemitech.pro/privacy-policy" rel="noopener">Privacy Policy</a><br><a href="https://opeyemitech.pro/terms" rel="noopener">Terms & Conditions</a><br><br><br>Hosted on GitHub <br><a href="#__consent">Manage cookie settings</a><br><br>
+  Copyright &copy; 2023 - {{ current_year }} <a href="https://opeyemitech.pro"  target="_blank" rel="noopener">Opeyemi Okuboyejo</a> <br><a href="https://opeyemitech.pro/#about-me" target="_blank" rel="noopener">About Opeyemi</a><br><a href="https://forms.gle/Bb4gifiuyrE4enDX6" target="_blank" rel="noopener">Contact Opeyemi</a><br><a href="https://opeyemitech.pro/privacy-policy" rel="noopener">Privacy Policy</a><br><a href="https://opeyemitech.pro/terms" rel="noopener">Terms & Conditions</a><br><br><br>Hosted on GitHub <br><a href="#__consent">Manage cookie settings</a><br><br>
 
 # Page Navigation
 nav:
