@@ -102,6 +102,7 @@ plugins:
         # 'old/file.md': 'new/file.md'
         'my-projects.md': 'https://opeyemitech.pro/my-projects/'
         'blog.md': 'https://opeyemitech.pro/my-projects/blog/'
+        'yt.md': 'https://youtube.com/@opeyemitechpro'
   - glightbox:
       touchNavigation: true
       loop: true
@@ -264,6 +265,7 @@ nav:
   # - Start Here: index.md
   - My Projects Documenation: my-projects.md
   - My Blog: blog.md
+  - YouTube: yt.md
   # - AWS:
   #   - aws_projects/index.md
   # - DevOps Projects:
