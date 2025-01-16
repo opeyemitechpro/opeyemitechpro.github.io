@@ -8,4 +8,4 @@ comments: false
 
 # **Go To My YouTube Channel**
 
-[OpeyemiTechPro YouTube](https://youtube.com/@opeyemitechpro){: target="_blank" }
+[OpeyemiTechPro YouTube](https://youtube.com/@opeyemitechpro)
