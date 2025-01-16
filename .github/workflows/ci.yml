@@ -20,14 +20,14 @@ jobs:
       # Replace the placeholder in mkdocs.yaml
       - name: Update mkdocs.yml with current year
         run: sed -i "s/{{ current_year }}/${{ env.CURRENT_YEAR }}/g" mkdocs.yml
-
-      - uses: actions/checkout@v4
-        # with:
-        #   fetch-depth: 0
-        #   sparse-checkout: |
-        #     docs
-        #     overrides
-        #     blog
+        
+      # - uses: actions/checkout@v4
+      #   with:
+      #     fetch-depth: 0
+      #     sparse-checkout: |
+      #       docs
+      #       overrides
+      #       blog
       - uses: actions/setup-python@v4
         with:
           python-version: 3.x
