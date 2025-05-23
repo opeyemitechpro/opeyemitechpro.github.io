@@ -164,6 +164,7 @@ extra:
     - icon: fontawesome/brands/telegram
       link: https://t.me/opeyemitechpro_cloud
       name: Opeyemi on Telegram
+  custom_dir: cname
   # tags:
   #   Terraform: 
   #   AWS: 
