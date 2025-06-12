@@ -6,11 +6,11 @@
   
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&size=30&duration=2000&pause=500&color=F70303&width=435&lines=A+DevOps+Engineer...;A+Cloud+Engineer...;A+Certified+Solutions+Architect...;A+Systems+Administrator...;An+IT+support+Engineer...)](https://opeyemitech.pro)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&size=30&duration=2000&pause=500&color=F70303&width=435&lines=A+DevOps+Engineer...;A+Cloud+Engineer...;A+Certified+Solutions+Architect...;A+Systems+Administrator...;An+IT+support+Engineer...)](https://opeyemitechpro.github.io)
 
 
 ## Where To Find Me
-[![Website](https://img.shields.io/badge/Opeyemi's-Profile-0A66C2?labelColor=yellow&style=flat&logo=aws&logoColor=white)](https://opeyemitech.pro) [![Website](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logoColor=white)](https://opeyemitech.pro/my-projects) [![Gmail Badge](https://img.shields.io/badge/Opeyemi's-Email-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com)](mailto:okuboyejoopeyemi01@gmail.com) 
+[![Website](https://img.shields.io/badge/Opeyemi's-Profile-0A66C2?labelColor=yellow&style=flat&logo=aws&logoColor=white)](https://opeyemitechpro.github.io) [![Website](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logoColor=white)](https://opeyemitechpro.github.io/my-projects) [![Gmail Badge](https://img.shields.io/badge/Opeyemi's-Email-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com)](mailto:okuboyejoopeyemi01@gmail.com) 
     
 ---
     
@@ -21,9 +21,9 @@
 
 ## My DevOps & Cloud Projects
 
-All my DevOps and Cloud Engineering related projects are clearly documented and documented in my [**Project Portfolio.**](https://opeyemitech.pro/my-projects)
+All my DevOps and Cloud Engineering related projects are clearly documented and documented in my [**Project Portfolio.**](https://opeyemitechpro.github.io/my-projects)
 
-[![OpeyemiTechPro](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logoColor=white)](https://opeyemitech.pro/my-projects)
+[![OpeyemiTechPro](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logoColor=white)](https://opeyemitechpro.github.io/my-projects)
 
 
 Below are a few of my projects:
@@ -31,7 +31,7 @@ Below are a few of my projects:
 
 **1. Setup OpenPVN Access Server on AWS Using Terraform**
 
-[![OpenVPN-Terraform](https://img.shields.io/badge/Click_To-View_Project_Details-brightgreen)](https://opeyemitech.pro/my-projects/terraform_projects/openvpn_access_server/)
+[![OpenVPN-Terraform](https://img.shields.io/badge/Click_To-View_Project_Details-brightgreen)](https://opeyemitechpro.github.io/my-projects/terraform_projects/openvpn_access_server/)
 
 In this mini-project, I demonstrated how to setup and self-host a VPN server on AWS using terraform and OpenVPN Access Server. Detailed project documentation and Github repo are in the link above.
 
@@ -88,7 +88,7 @@ In this mini-project, I demonstrated how to setup and self-host a VPN server on 
 
 
 <div style="text-align: center;">
-[![](https://visitcount.itsvg.in/api?id=opeyemitechpro&label=Profile%20Views&color=1&icon=0&pretty=false)](https://opeyemitech.pro)
+[![](https://visitcount.itsvg.in/api?id=opeyemitechpro&label=Profile%20Views&color=1&icon=0&pretty=false)](https://opeyemitechpro.github.io)
 </div> -->
 
 [![](https://visitcount.itsvg.in/api?id=opeyemitechpro&icon=0&color=0)](https://visitcount.itsvg.in)

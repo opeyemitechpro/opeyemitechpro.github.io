@@ -12,9 +12,9 @@ pin: false
 
 ## Introduction
 
-Welcome to [OpeyemiTechPro](https://opeyemitech.pro) (the "Website"). These terms and conditions
+Welcome to [OpeyemiTechPro](https://opeyemitechpro.github.io) (the "Website"). These terms and conditions
 ("Terms") govern your use of our website and its content, provided by
-[OpeyemiTechPro](https://opeyemitech.pro) ("we," "us," or "our"). By accessing or using our
+[OpeyemiTechPro](https://opeyemitechpro.github.io) ("we," "us," or "our"). By accessing or using our
 Website, you agree to be bound by these Terms. If you do not agree to these
 Terms, please do not use our Website or subscribe to our newsletter.
 
@@ -23,14 +23,14 @@ Terms, please do not use our Website or subscribe to our newsletter.
 ### Content Ownership
 
 All content on the Website, including text, graphics, logos, images, and
-software, is the property of [OpeyemiTechPro](https://opeyemitech.pro) or its content suppliers
+software, is the property of [OpeyemiTechPro](https://opeyemitechpro.github.io) or its content suppliers
 and is protected by international copyright laws. You may not reproduce,
 distribute, or transmit any content without our prior written permission.
 
 ### Trademarks
 
 All trademarks, service marks, and trade names on the Website are proprietary
-to [OpeyemiTechPro](https://opeyemitech.pro) or other respective owners. Unauthorized use of these
+to [OpeyemiTechPro](https://opeyemitechpro.github.io) or other respective owners. Unauthorized use of these
 trademarks is prohibited.
 
 ## Privacy Policy
@@ -51,8 +51,8 @@ You agree not to use the Website:
   minors in any way.
 - To send, knowingly receive, upload, download, use, or re-use any material
   that does not comply with these Terms.
-- To impersonate or attempt to impersonate [OpeyemiTechPro](https://opeyemitech.pro), an employee
-  of [OpeyemiTechPro](https://opeyemitech.pro), another user, or any other person or entity.
+- To impersonate or attempt to impersonate [OpeyemiTechPro](https://opeyemitechpro.github.io), an employee
+  of [OpeyemiTechPro](https://opeyemitechpro.github.io), another user, or any other person or entity.
 - Not engage in any conduct that restricts or inhibits any other user from
   using or enjoying our website or newsletter.
 - Not post or transmit any harmful, threatening, abusive, defamatory, obscene,
@@ -99,7 +99,7 @@ uninterrupted, error-free, or free of viruses or other harmful components.
 
 ### Limitation of Liability
 
-To the maximum extent permitted by law, [OpeyemiTechPro](https://opeyemitech.pro) shall not be
+To the maximum extent permitted by law, [OpeyemiTechPro](https://opeyemitechpro.github.io) shall not be
 liable for any direct, indirect, incidental, consequential, or punitive damages
 arising out of your access to or use of our website or newsletter.
 
@@ -130,7 +130,7 @@ warranty disclaimers, indemnity, and limitations of liability.
 
 ## Indemnification
 
-You agree to indemnify, defend, and hold harmless [OpeyemiTechPro](https://opeyemitech.pro), its
+You agree to indemnify, defend, and hold harmless [OpeyemiTechPro](https://opeyemitechpro.github.io), its
 affiliates, officers, directors, employees, agents, licensors, and suppliers
 from and against all claims, liabilities, damages, losses, costs, expenses, or
 fees (including reasonable attorneys' fees) arising from your use of our
@@ -145,10 +145,10 @@ Terms. If you do not agree to the new Terms, please stop using the Website.
 ## Contact Us
 
 If you have any questions about these Terms, please contact us at
-<terms@opeyemitech.pro>.
+<terms@opeyemitechpro.github.io>.
 
 ---
 
 By using our Website, you agree to these Terms. Please read them carefully.
 
-[OpeyemiTechPro](https://opeyemitech.pro).
+[OpeyemiTechPro](https://opeyemitechpro.github.io).

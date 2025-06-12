@@ -15,7 +15,7 @@ pin: false
 
 This Privacy Policy explains how OpeyemiTechPro ("I", "we," "us," or "our")
 collects, uses, discloses, and safeguards your information when you visit our
-website [OpeyemiTechPro](https://opeyemitech.pro), including any other media form,
+website [OpeyemiTechPro](https://opeyemitechpro.github.io), including any other media form,
 media channel, mobile website, or mobile application related or connected
 thereto (collectively, the "Website"). Please read this Privacy Policy
 carefully. If you do not agree with the terms of this Privacy Policy, please do
@@ -76,4 +76,4 @@ any reason. We will alert you about any changes by updating the
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at
-<privacy@opeyemitech.pro>.
+<privacy@opeyemitechpro.github.io>.

@@ -8,4 +8,4 @@ comments: false
 
 # **Go To My Profile Page**
 
-[OpeyemiTechPro Projects Documentation Website](https://opeyemitech.pro/my-projects){: target="_blank" }
+[OpeyemiTechPro Projects Documentation Website](https://opeyemitechpro.github.io/my-projects){: target="_blank" }

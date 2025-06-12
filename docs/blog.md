@@ -8,4 +8,4 @@ comments: false
 
 # **Go To My Blog Page**
 
-[OpeyemiTechPro Blog](https://opeyemitech.pro/my-projects/blog/){: target="_blank" }
+[OpeyemiTechPro Blog](https://opeyemitechpro.github.io/my-projects/blog/){: target="_blank" }

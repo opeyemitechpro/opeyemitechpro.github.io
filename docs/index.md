@@ -35,7 +35,7 @@ pin: true
 <h2>Hello 👋, I'm Opeyemi Okuboyejo</h2>
   
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&size=30&duration=2000&pause=500&color=F70303&width=435&lines=A+DevOps+Engineer...;A+Cloud+Engineer...;A+Certified+Solutions+Architect...;A+Systems+Administrator...;An+IT+support+Engineer...)](https://opeyemitech.pro)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&size=30&duration=2000&pause=500&color=F70303&width=435&lines=A+DevOps+Engineer...;A+Cloud+Engineer...;A+Certified+Solutions+Architect...;A+Systems+Administrator...;An+IT+support+Engineer...)](https://opeyemitechpro.github.io)
 
 I am an AWS Certified Solutions Architect with expertise in designing resilient distributed systems. My proficiency extends to Microsoft technologies, where I've successfully implemented solutions for medium to large-scale organizations. With over 15 years in the IT industry, I possess a strong background in DevOps & Cloud Engineering, Systems & Network administration, and more. My passion for learning is evident in my trend research and mentoring activities, showcasing my entrepreneurial leadership abilities.
 
@@ -48,7 +48,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 <!-- 
 [![Opeyemi On LinkedIn](https://img.shields.io/badge/Opeyemi-On_LinkedIn-0077B5?labelColor=black&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opeyemi-okuboyejo/) &nbsp;&nbsp; [![OpeyemiOn GitHub](https://img.shields.io/badge/Opeyemi-On_GitHub-181717?labelColor=grey&style=flat&logo=github&logoColor=white)](https://github.com/opeyemitechpro) &nbsp;&nbsp;[![Opeyemi On AWS Community](https://img.shields.io/badge/Opeyemi-On_AWS_Community-232F3E?style=flat&logo=amazonwebservices&logoColor=white)](https://community.aws/@opeyemitechpro) &nbsp;&nbsp;[![Opeyemi On YouTube](https://img.shields.io/badge/OpeyemiTechPro_On_YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@opeyemitechpro) &nbsp;&nbsp;[![Opeyemi On Dev.to](https://img.shields.io/badge/OpeyemiTechPro_On_Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/opeyemitechpro) &nbsp;&nbsp;[![Opeyemi On Telegram](https://img.shields.io/badge/OpeyemiTechPro_On_Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/opeyemitechpro_cloud/1)  &nbsp;&nbsp;[![Opeyemi On X.com](https://img.shields.io/badge/Opeyemi_On_X-000000?style=flat&logo=x&logoColor=white)](https://x.com/opeyemitechpro)
 
-[![Website](https://img.shields.io/badge/Opeyemi's-Profile-0A66C2?labelColor=yellow&style=flat&logo=terraform&logoColor=white)](https://opeyemitech.pro)&nbsp;&nbsp;[![Website](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logo=terraform&logoColor=white)](https://opeyemitech.pro) -->
+[![Website](https://img.shields.io/badge/Opeyemi's-Profile-0A66C2?labelColor=yellow&style=flat&logo=terraform&logoColor=white)](https://opeyemitechpro.github.io)&nbsp;&nbsp;[![Website](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logo=terraform&logoColor=white)](https://opeyemitechpro.github.io) -->
 
 
 <!-- ![Static Badge](https://img.shields.io/badge/OPeyemi_On_LinkedIn?style=for-the-badge) -->
@@ -58,7 +58,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 !!! location-search "Follow Me"
 
-    [![Website](https://img.shields.io/badge/Opeyemi's-Profile-0A66C2?labelColor=yellow&style=flat&logo=aws&logoColor=white)](https://opeyemitech.pro){: target="_blank" }&nbsp;&nbsp;[![Website](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logoColor=white)](https://opeyemitech.pro/my-projects){: target="_blank" }&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Opeyemi's-Email-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com)](mailto:okuboyejoopeyemi01@gmail.com){: target="_blank" }
+    [![Website](https://img.shields.io/badge/Opeyemi's-Profile-0A66C2?labelColor=yellow&style=flat&logo=aws&logoColor=white)](https://opeyemitechpro.github.io){: target="_blank" }&nbsp;&nbsp;[![Website](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logoColor=white)](https://opeyemitechpro.github.io/my-projects){: target="_blank" }&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Opeyemi's-Email-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com)](mailto:okuboyejoopeyemi01@gmail.com){: target="_blank" }
     
     ---
     
@@ -79,7 +79,7 @@ Looking for an opportunity to work in a challenging position combining my skills
     [![Linkedin Badge](https://img.shields.io/badge/-Opeyemi_On_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opeyemi-okuboyejo/)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
     [![Gmail Badge](https://img.shields.io/badge/-okuboyejoopeyemi01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com)](mailto:okuboyejoopeyemi01@gmail.com) 
     [![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Portfolio-blue?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitechpro.github.io)](https://opeyemitechpro.github.io)
-    [![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Project_Portfolio-purple?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitech.pro/my-projects)](https://opeyemitech.pro/my-projects)
+    [![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Project_Portfolio-purple?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitechpro.github.io/my-projects)](https://opeyemitechpro.github.io/my-projects)
 
     <div align="left">
       <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
@@ -108,7 +108,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 !!! project "My Projects"
     
     <div style="text-align: center;">
-    [:tools: View Opeyemi's Project Portfolio](https://opeyemitech.pro/my-projects){: target="_blank" .md-button .md-button--primary}
+    [:tools: View Opeyemi's Project Portfolio](https://opeyemitechpro.github.io/my-projects){: target="_blank" .md-button .md-button--primary}
     </div>
 
     ??? project "Setup & Configure OpenVPN Access Server on AWS Using Terraform"
@@ -116,7 +116,7 @@ Looking for an opportunity to work in a challenging position combining my skills
         **Setup OpenPVN Access Server on AWS Using Terraform**
 
         <div style="text-align: center;">
-        [:material-file-document-edit: View Detailed Project Documentation Here](https://opeyemitech.pro/my-projects/terraform_projects/openvpn_access_server/){: target="_blank" .md-button .md-button--primary}
+        [:material-file-document-edit: View Detailed Project Documentation Here](https://opeyemitechpro.github.io/my-projects/terraform_projects/openvpn_access_server/){: target="_blank" .md-button .md-button--primary}
 
         [:simple-github: View Project GitHub Repo Here](https://github.com/opeyemitechpro/OpenVPN-Terraform-Setup){: target="_blank" .md-button .md-button--primary}
         </div>
