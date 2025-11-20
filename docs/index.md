@@ -37,12 +37,30 @@ pin: true
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&size=30&duration=2000&pause=500&color=F70303&width=435&lines=A+DevOps+Engineer...;A+Cloud+Engineer...;A+Certified+Solutions+Architect...;A+Systems+Administrator...;An+IT+support+Engineer...)](https://opeyemitechpro.github.io)
 
-I am an AWS Certified Solutions Architect with expertise in designing resilient distributed systems. My proficiency extends to Microsoft technologies, where I've successfully implemented solutions for medium to large-scale organizations. With over 15 years in the IT industry, I possess a strong background in DevOps & Cloud Engineering, Systems & Network administration, and more. My passion for learning is evident in my trend research and mentoring activities, showcasing my entrepreneurial leadership abilities.
+I am a DevOps & Cloud Engineer with 15+ years of progressive IT experience delivering secure, automated, and scalable cloud infrastructures. I specialize in AWS, Kubernetes (EKS), Terraform, CI/CD, Infrastructure as Code (IaC), cloud security, and end-to-end DevOps automation.
 
+My background blends deep hands-on engineering with broad leadership across systems administration, cloud migration, infrastructure modernization, and platform reliability. I design resilient architectures, automate complex deployments, and improve developer productivity through cloud-native tooling.
 
-Tools & Technologies: AWS, Azure, GCP, Linux, Kubernetes, Docker, Git, VMware, MySQL, Windows Server
-Industry Knowledge: Linux Admin, Cloud Infrastructure, Cloud Services, Database Administration, Webmin Web Server, Network Administration, Wordpress
-Looking for an opportunity to work in a challenging position combining my skills in Cloud Engineering, which provides professional development, interesting experiences and personal growth.
+I’ve built multiple real-world projects, including automated EKS clusters using Terraform modules, self-hosted VPN solutions on AWS, full Kubernetes monitoring stacks (Prometheus + Grafana), secure containerized environments on EC2 with Nginx reverse proxy, and multi-service microservices deployed on EKS.
+
+My decade-long foundation in enterprise IT—servers, networks, virtualization, VDI, Windows/Linux administration, security baselining, and IT operations—gives me a unique hybrid advantage: I understand legacy environments deeply and can modernize them into fully automated, cloud-native systems.
+
+**Strengths:**
+- Strong automation mindset & analytical problem-solving
+- Ability to simplify complex cloud ecosystems
+- High-quality documentation and technical communication
+- Leadership, mentoring & cross-team collaboration
+- Consistent delivery of secure, scalable, high-availability systems
+
+**Growth Areas:**
+- Can over-engineer solutions when optimizing for long-term scalability
+- Very high quality/control standards during early prototyping
+- Detail-heavy documentation approach that takes extra time
+
+**Career Interests:**
+DevOps | Cloud Engineering | Site Reliability Engineering (SRE) | Platform Engineering | Kubernetes Engineering | Infrastructure Automation
+
+If your team values proactive problem solving, automation-first engineering, and scalable cloud infrastructure, let’s connect.
 
 ---
 <!-- 
@@ -124,6 +142,20 @@ Looking for an opportunity to work in a challenging position combining my skills
         ---
 
         In this mini-project, I demonstrated how to setup and self-host a VPN server on AWS using terraform and OpenVPN Access Server.
+    
+    ??? project "End-to-End DevSecOps Project - Automating Provisioning, Deployment and Monitoring of an 11-Microservice e-Commerce App on kubernetes (EKS)"
+
+        *End-to-End CI/CD & Monitoring Using Kubernetes, Terraform, Jenkins, Grafana & Prometheus**
+
+        <div style="text-align: center;">
+        [:material-file-document-edit: View Detailed Project Documentation Here](https://opeyemitechpro.github.io/my-projects/devops_projects/11micro/){: target="_blank" .md-button .md-button--primary}
+
+        [:simple-github: View Project GitHub Repo Here](https://github.com/opeyemitechpro/11-Microservices-k8s-App){: target="_blank" .md-button .md-button--primary}
+        </div>
+        
+        ---
+
+        This project demonstrates a complete, production-grade DevSecOps pipeline for deploying a cloud-native e-commerce application built on 11 different microservices written in multiple programming languages that communicate with each other over gRPC. The application was originally designed by Google Developers for the GKE but I have adapted it to be deployed on Amazon EKS or on any Kubernetes cluster.
 
 
 
