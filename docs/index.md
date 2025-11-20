@@ -137,7 +137,21 @@ If your team values proactive problem solving, automation-first engineering, and
     [:tools: View Opeyemi's Project Portfolio](https://opeyemitechpro.github.io/my-projects){: target="_blank" .md-button .md-button--primary}
     </div>
 
-    ??? project "Setup & Configure OpenVPN Access Server on AWS Using Terraform"
+    ???+ project "End-to-End DevSecOps Project - Automating Provisioning, Deployment and Monitoring of an 11-Microservice e-Commerce App on kubernetes (EKS)"
+
+        **End-to-End CI/CD & Monitoring Using Kubernetes, Terraform, Jenkins, Grafana & Prometheus**
+
+        <div style="text-align: center;">
+        [:material-file-document-edit: View Detailed Project Documentation Here](https://opeyemitechpro.github.io/my-projects/devops_projects/11micro/){: target="_blank" .md-button .md-button--primary}
+
+        [:simple-github: View Project GitHub Repo Here](https://github.com/opeyemitechpro/11-Microservices-k8s-App){: target="_blank" .md-button .md-button--primary}
+        </div>
+        
+        ---
+
+        This project demonstrates a complete, production-grade DevSecOps pipeline for deploying a cloud-native e-commerce application built on 11 different microservices written in multiple programming languages that communicate with each other over gRPC. The application was originally designed by Google Developers for the GKE but I have adapted it to be deployed on Amazon EKS or on any Kubernetes cluster.
+
+    ???+ project "Setup & Configure OpenVPN Access Server on AWS Using Terraform"
 
         **Setup OpenPVN Access Server on AWS Using Terraform**
 
@@ -151,19 +165,6 @@ If your team values proactive problem solving, automation-first engineering, and
 
         In this mini-project, I demonstrated how to setup and self-host a VPN server on AWS using terraform and OpenVPN Access Server.
     
-    ??? project "End-to-End DevSecOps Project - Automating Provisioning, Deployment and Monitoring of an 11-Microservice e-Commerce App on kubernetes (EKS)"
-
-        *End-to-End CI/CD & Monitoring Using Kubernetes, Terraform, Jenkins, Grafana & Prometheus**
-
-        <div style="text-align: center;">
-        [:material-file-document-edit: View Detailed Project Documentation Here](https://opeyemitechpro.github.io/my-projects/devops_projects/11micro/){: target="_blank" .md-button .md-button--primary}
-
-        [:simple-github: View Project GitHub Repo Here](https://github.com/opeyemitechpro/11-Microservices-k8s-App){: target="_blank" .md-button .md-button--primary}
-        </div>
-        
-        ---
-
-        This project demonstrates a complete, production-grade DevSecOps pipeline for deploying a cloud-native e-commerce application built on 11 different microservices written in multiple programming languages that communicate with each other over gRPC. The application was originally designed by Google Developers for the GKE but I have adapted it to be deployed on Amazon EKS or on any Kubernetes cluster.
 
 
 
