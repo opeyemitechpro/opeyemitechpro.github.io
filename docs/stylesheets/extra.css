@@ -98,15 +98,15 @@
 }
 .md-typeset .admonition.project,
 .md-typeset details.project {
-  border-color: rgb(50, 30, 133);
+  border-color: rgb(255, 118, 5);
 }
 .md-typeset .project > .admonition-title,
 .md-typeset .project > summary {
-  background-color: rgba(50, 30, 133, 0.1);
+  background-color: rgba(255, 118, 5, 0.1);
 }
 .md-typeset .project > .admonition-title::before,
 .md-typeset .project > summary::before {
-  background-color: rgb(50, 30, 133);
+  background-color: rgb(255, 118, 5);
   -webkit-mask-image: var(--md-admonition-icon--project);
           mask-image: var(--md-admonition-icon--project);
 }

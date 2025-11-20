@@ -46,6 +46,7 @@ I’ve built multiple real-world projects, including automated EKS clusters usin
 My decade-long foundation in enterprise IT—servers, networks, virtualization, VDI, Windows/Linux administration, security baselining, and IT operations—gives me a unique hybrid advantage: I understand legacy environments deeply and can modernize them into fully automated, cloud-native systems.
 
 **Strengths:**
+
 - Strong automation mindset & analytical problem-solving
 - Ability to simplify complex cloud ecosystems
 - High-quality documentation and technical communication
@@ -53,12 +54,19 @@ My decade-long foundation in enterprise IT—servers, networks, virtualization, 
 - Consistent delivery of secure, scalable, high-availability systems
 
 **Growth Areas:**
+
 - Can over-engineer solutions when optimizing for long-term scalability
 - Very high quality/control standards during early prototyping
 - Detail-heavy documentation approach that takes extra time
 
 **Career Interests:**
-DevOps | Cloud Engineering | Site Reliability Engineering (SRE) | Platform Engineering | Kubernetes Engineering | Infrastructure Automation
+
+- DevOps
+- Cloud Engineering 
+- Site Reliability Engineering (SRE) 
+- Platform Engineering 
+- Kubernetes Engineering 
+- Infrastructure Automation
 
 If your team values proactive problem solving, automation-first engineering, and scalable cloud infrastructure, let’s connect.
 
