@@ -29,7 +29,15 @@ All my DevOps and Cloud Engineering related projects are clearly documented and 
 Below are a few of my projects:
 ---
 
-**1. Setup OpenPVN Access Server on AWS Using Terraform**
+**1. End-to-End CI/CD & Monitoring Using Kubernetes, Terraform, Jenkins, Grafana & Prometheus**
+
+[![End-to-End CI/CD & Monitoring Using Kubernetes, Terraform, Jenkins, Grafana & Prometheus](https://img.shields.io/badge/Click_To-View_Project_Details-brightgreen)](https://opeyemitechpro.github.io/my-projects/devops_projects/11micro/)
+
+In this mini-project, I demonstrated how to setup and self-host a VPN server on AWS using terraform and OpenVPN Access Server. Detailed project documentation and Github repo are in the link above.
+
+---
+
+**2. Setup OpenPVN Access Server on AWS Using Terraform**
 
 [![OpenVPN-Terraform](https://img.shields.io/badge/Click_To-View_Project_Details-brightgreen)](https://opeyemitechpro.github.io/my-projects/terraform_projects/openvpn_access_server/)
 
