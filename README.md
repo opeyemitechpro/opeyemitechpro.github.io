@@ -59,6 +59,26 @@ In this mini-project, I demonstrated how to setup and self-host a VPN server on 
 ## Certifications & AWards
 
 
+**Google Cloud Certified Professional Cloud Architect**
+        
+
+<!-- ![AWS Certified Solutions Architect – Associate](./docs/assets/images/AWS-SAA-Logo.png "AWS Certified Solutions Architect – Associate") -->
+
+<img src="./docs/assets/images/GCP_PCA_Logo.png?raw=true" alt="Google Cloud Certified Professional Cloud Architect" title="Google Cloud Certified Professional Cloud Architect" width="300" height="300" />
+
+
+          
+
+
+
+[![Verify Certificate](https://img.shields.io/badge/Verify-Certificate-blue?style=flat)](https://www.credly.com/badges/9752acab-6392-4412-8f85-8bd172485555/public_url)
+
+[![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat)](https://www.credly.com/badges/9752acab-6392-4412-8f85-8bd172485555/public_url)
+
+<br><br>
+
+
+
 **AWS Certified Solutions Architect – Associate**
         
 

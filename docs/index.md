@@ -233,6 +233,23 @@ If your team values proactive problem solving, automation-first engineering, and
 
 !!! award ""
 
+    ???+ award "Google Cloud Certified Professional Cloud Architect" 
+        
+        <figure markdown="1">
+        ![Google Cloud Certified Professional Cloud Architect](assets/images/GCP_PCA_Logo.png "Google Cloud Certified Professional Cloud Architect"){ width="300" }
+        </figure>
+          
+        ---
+
+          - As a Professional Cloud Architect, I enable organizations to leverage Google Cloud technologies. With a thorough understanding of cloud architecture and Google Cloud, I design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives. 
+                          
+        <div style="text-align: center;">
+        [:fontawesome-solid-award: Verify Certificate](https://www.credly.com/badges/9752acab-6392-4412-8f85-8bd172485555/public_url){: target="_blank" .md-button .md-button--primary}
+
+        [:fontawesome-solid-award: View Certificate](https://www.credly.com/badges/9752acab-6392-4412-8f85-8bd172485555/public_url){: target="_blank" .md-button .md-button--primary}
+        </div>
+        
+    
     ???+ award "AWS Certified Solutions Architect – Associate" 
         
         <figure markdown="1">
